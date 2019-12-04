@@ -7,8 +7,8 @@ html
 
 body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
-  background-image: asset-url('background.png');
-  background-repeat: repeat-y;
+  background-image: image-url('background.png');
+  /* background-repeat: repeat-y; */
   color: #000;}
 
 p
