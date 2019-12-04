@@ -147,7 +147,7 @@ ul#menu li a
 
 ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 { color: #FFF;
-  background: transparent image-url(transparent_light.png) repeat;}
+  background: transparent image-url("transparent_light.png") repeat;}
 
 #site_content
 { width: 854px;
@@ -173,7 +173,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 .sidebar li a, .sidebar li a:hover
 { padding: 0 0 0 40px;
   display: block;
-  background: transparent image-url(link.png) no-repeat left center;}
+  background: transparent image-url("link.png") no-repeat left center;}
 
 .sidebar li a.selected
 { color: #7E2451;
@@ -190,7 +190,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 
 #content ul li
 { list-style-type: none;
-  background: image-url(bullet.png) no-repeat;
+  background: image-url("bullet.png") no-repeat;
   margin: 0 0 6px 0;
   padding: 0 0 4px 25px;
   line-height: 1.5em;}
